@@ -19,11 +19,11 @@ $_['text_customer_address_edit']   = '<a href="customer_id=%d">%s</a> актуа
 $_['text_customer_address_delete'] = '<a href="customer_id=%d">%s</a> премахна един от адресите си.';
 $_['text_customer_edit']           = '<a href="customer_id=%d">%s</a> актуализира данните за профила си.';
 $_['text_customer_forgotten']      = '<a href="customer_id=%d">%s</a> е поискал(а) нова парола.';
-$_['text_customer_reset']          = '<a href="customer_id=%d">%s</a> reset their account password.';
+$_['text_customer_reset']          = '<a href="customer_id=%d">%s</a> възстанови паролата за профила си.';
 $_['text_customer_login']          = '<a href="customer_id=%d">%s</a> влезе.';
 $_['text_customer_password']       = '<a href="customer_id=%d">%s</a> актуализира парола си.';
 $_['text_customer_register']       = '<a href="customer_id=%d">%s</a> регистрира на нов акаунт.';
-$_['text_customer_return_account'] = '<a href="customer_id=%d">%s</a> добави продукт <a href="return_id=%d">за въщане</a>.';
+$_['text_customer_return_account'] = '<a href="customer_id=%d">%s</a> добави продукт <a href="return_id=%d">за връщане</a>.';
 $_['text_customer_return_guest']   = '%s добави <a href="return_id=%d">връщане на продукт</a>.';
 $_['text_customer_order_account']  = '<a href="customer_id=%d">%s</a> добави <a href="order_id=%d">нова поръчка</a>.';
 $_['text_customer_order_guest']    = '%s създаде <a href="order_id=%d">нова поръчка</a>.';
