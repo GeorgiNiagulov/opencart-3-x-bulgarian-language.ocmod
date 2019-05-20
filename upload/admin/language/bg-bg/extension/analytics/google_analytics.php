@@ -13,7 +13,7 @@ $_['heading_title']    = 'Google статистика';
 $_['text_analytics']   = 'Google статистика';
 $_['text_success']	   = 'Успешно: Променихте Google статистика!';
 $_['text_edit']        = 'Редакция';
-$_['text_signup']      = 'Поесетете <a href="http://www.google.com/analytics/" target="_blank"><u>Google Analytics</u></a> и след създаването на своя уебсайт профил копирате и поставяте кода на анализи в тази област.';
+$_['text_signup']      = 'Посетете <a href="http://www.google.com/analytics/" target="_blank"><u>Google Analytics</u></a> и след създаването на своя уебсайт профил копирате и поставяте кода на анализи в тази област.';
 
 // Entry
 $_['entry_code']       = 'Код за Google статистика';
