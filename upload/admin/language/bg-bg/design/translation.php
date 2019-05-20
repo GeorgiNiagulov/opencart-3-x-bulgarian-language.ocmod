@@ -15,7 +15,7 @@ $_['heading_title']    = 'Езиков превод';
 $_['text_edit']        = 'Редакция';
 $_['text_list']        = 'Списъл';
 $_['text_translation'] = 'Избор';
-$_['text_translation'] = 'Предови';
+$_['text_translation'] = 'Преводи';
 
 // Column
 $_['column_flag']      = 'Флаг';
