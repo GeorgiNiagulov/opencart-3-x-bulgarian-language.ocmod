@@ -18,7 +18,7 @@ $_['text_store']       = 'Изберете магазин';
 $_['text_template']    = 'Изберете дизайн';
 $_['text_default']     = 'Основен';
 $_['text_warning']     = 'Внимание: Сигурността може да бъде изложена на риск при използване на редактора!';
-$_['text_access']      = 'Make sure that only the correct admin users are allowed to access this page as you can directly access your stores source code.';
+$_['text_access']      = 'Уверете се, че само правилните администратори имат достъп до тази страница, тъй като има пряк достъп до изходния код на магазините.';
 $_['text_permission']  = 'Можете да промените правата за достъп от <a href="%s" class="alert-link">тук</a>.';
 $_['text_begin']       = 'Изберете файл на дизайна от лявата страна, за да започнете да редактирате.';
 
