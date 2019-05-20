@@ -26,7 +26,7 @@ $_['text_trial']			      = 'Пробен профил';
 
 // Entry
 $_['entry_name']			      = 'Заглавие';
-$_['entry_price']			      = 'Дена';
+$_['entry_price']			      = 'Цена';
 $_['entry_duration']		    = 'Продължителност';
 $_['entry_cycle']			      = 'Цикъл';
 $_['entry_frequency']		    = 'Честота';
