@@ -13,7 +13,7 @@ $_['heading_title']    = 'Редактор на езика';
 // Text
 $_['text_success']     = 'Успешно: Променихте редактора на езика!';
 $_['text_edit']        = 'Редакция';
-$_['text_default']     = 'Осоновен';
+$_['text_default']     = 'Основен';
 $_['text_store']       = 'Магазин';
 $_['text_language']    = 'Език';
 $_['text_translation'] = 'Избор на превод';
