@@ -8,11 +8,11 @@
  *      Bitcoin: 1P3Zk93fhKURWT1rXiYxiLGuJ59oETxuTi
  */
 // Heading
-$_['heading_title']     = 'HTML създържание';
+$_['heading_title']     = 'HTML съдържание';
 
 // Text
 $_['text_extension']       = 'Модули';
-$_['text_success']      = 'Успешно: Променихте HTML създържание!';
+$_['text_success']      = 'Успешно: Променихте HTML съдържание!';
 $_['text_edit']         = 'Редакция';
 
 // Entry
@@ -22,5 +22,5 @@ $_['entry_description'] = 'Описание';
 $_['entry_status']      = 'Статус';
 
 // Error
-$_['error_permission']  = 'Внимание: Нямате права за редакция на HTML създържание!';
+$_['error_permission']  = 'Внимание: Нямате права за редакция на HTML съдържание!';
 $_['error_name']        = 'Името на модула трябва да е между 3 и 64 символа!';
